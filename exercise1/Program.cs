@@ -8,6 +8,10 @@ namespace exercise1
         {
             Console.WriteLine("Enter name");
             string name = Console.ReadLine();
+
+            string[] names = new string[4];
+
+
         }
     }
 }
