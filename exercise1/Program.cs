@@ -7,6 +7,7 @@ namespace exercise1
         static void Main(string[] args)
         {
             Console.WriteLine("Enter name");
+            string name = Console.ReadLine();
         }
     }
 }
